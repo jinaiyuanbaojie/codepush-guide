@@ -68,7 +68,7 @@ Wiki for Using CodePush
 
 H5的热更新不再详述，这与用浏览器打开网页的场景是等价的。只需将前端重新发版部署，客户端即可使用新功能。
 
-<img src="/Users/jinaiyuan/Documents/HomeCredit/ReactNative/images/h5.jpg" alt="h5" style="zoom:50%;" />
+<img src="https://github.com/jinaiyuanbaojie/codepush-guide/blob/master/images/h5.jpg" alt="h5" style="zoom:50%;" />
 
 ## 示例开发环境
 
