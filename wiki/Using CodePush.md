@@ -6,7 +6,7 @@ CodePush是由微软出品的，用于动态下发代码完成热更新的一套
 2. CodePush SDK：移动需要集成的SDK，提供JS，Android，iOS三端代码，根据配置与CodePush Server通信，下载管理补丁包
 3. CodePush Client：安装到本地的命令行工具，可以与CodePush Server通信，管理应用信息、打包上传发布补丁
 
-<img src="/Users/jinaiyuan/Documents/HomeCredit/ReactNative/images/codepush.jpg" alt="codepush" style="zoom:50%;" />
+<img src="https://github.com/jinaiyuanbaojie/codepush-guide/blob/master/images/codepush.jpg" alt="codepush" style="zoom:50%;" />
 
 CodePush热更新的思路是下载最新的代码和资源到手机的指定目录，然后通过ReactNative引擎重新加载代码完成热更新。业内主流的方案是[**CodePush**](https://github.com/Microsoft/react-native-code-push)。关于CodePush的集成文档可以参考：
 
@@ -261,12 +261,12 @@ CodePush热更新的思路是下载最新的代码和资源到手机的指定目
 
 1. 安装apk
 
-   <img src="/Users/jinaiyuan/Documents/HomeCredit/ReactNative/images/codepush-old.jpg" alt="codepush-old" style="zoom:20%;" />
+   <img src="https://github.com/jinaiyuanbaojie/codepush-guide/blob/master/images/codepush-old.jpg" alt="codepush-old" style="zoom:20%;" />
 
 2. 点击按钮检查升级（也支持自动检测）
 
-   <img src="/Users/jinaiyuan/Documents/HomeCredit/ReactNative/images/code-dialog.jpg" alt="code-dialog" style="zoom:20%;" />
+   <img src="https://github.com/jinaiyuanbaojie/codepush-guide/blob/master/images/code-dialog.jpg" alt="code-dialog" style="zoom:20%;" />
 
 3. 新版本界面
 
-   <img src="/Users/jinaiyuan/Documents/HomeCredit/ReactNative/images/codepush-new.jpg" alt="codepush-new" style="zoom:20%;" />
+   <img src="https://github.com/jinaiyuanbaojie/codepush-guide/blob/master/images/codepush-new.jpg" alt="codepush-new" style="zoom:20%;" />
