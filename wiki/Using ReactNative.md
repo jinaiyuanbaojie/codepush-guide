@@ -51,8 +51,8 @@ iOS pod安装失败报错，参考[解决方法](https://www.jianshu.com/p/58660
 
 - iOS
 
-  <img src="/Users/jinaiyuan/Desktop/RNiOS.png" alt="RNiOS" style="zoom:33%;" />
+  <img src="https://github.com/jinaiyuanbaojie/codepush-guide/tree/master/images/RNiOS.png" alt="RNiOS" style="zoom:33%;" />
 
 - Android
 
-  <img src="/Users/jinaiyuan/Desktop/RNandroid.png" alt="RNandroid" style="zoom:33%;" />
+  <img src="https://github.com/jinaiyuanbaojie/codepush-guide/tree/master/images/RNandroid.png" alt="RNandroid" style="zoom:33%;" />
