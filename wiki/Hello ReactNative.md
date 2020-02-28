@@ -13,7 +13,7 @@ ReactNative是有Facebook在2015开源发布的。最早是一群Facebook的Web�
 
 ## ReactNative的逻辑架构
 
-<img src="/Users/jinaiyuan/Documents/HomeCredit/ReactNative/images/reactnative.jpg" alt="reactnative" style="zoom:50%;" />
+<img src="https://github.com/jinaiyuanbaojie/codepush-guide/tree/master/images/reactnative.jpg" alt="reactnative" style="zoom:50%;" />
 
 1. React层类似于Commander，处理所有业务逻辑，如网络请求，数据加工，UI事件响应等。
 
